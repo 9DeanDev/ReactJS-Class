@@ -1,0 +1,16 @@
+.list-user-container {
+    .list-user-content {
+
+
+        .child {
+            &:first-child {
+                border-top: 1px solid gray;
+            }
+
+            line-height: 30px;
+            width: 400px;
+            border-bottom: 1px solid gray;
+            margin: 0 auto;
+        }
+    }
+}
